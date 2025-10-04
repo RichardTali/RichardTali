@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center">Hola 👋, soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Richard</a></h1>
-<h4 align="center">I am an independent developer and self-taught learner, passionate about learning and creating innovative solutions.
-I am always looking for new challenges that allow me to grow professionally.
-Feel free to check out my résumé to learn more about my experience and skills.</h4>
+<h4 align="center">Soy desarrollador independiente y estudiante autodidacta, apasionado por el aprendizaje y la creación de soluciones innovadoras.
+Siempre estoy en busca de nuevos desafíos que me permitan crecer profesionalmente.
+No dudes en consultar mi currículum para conocer más sobre mi experiencia y habilidades.</h4>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 <br>
 
-- 🎓 Graduate in Software Development Technology from technical institute.  
-- 💻 Independent developer passionate about creating practical and efficient solutions.  
-- 📚 Self-taught learner, constantly exploring new technologies and best practices.  
-- 🚀 Interested in web development, backend, and modern tools.  
-- 🤝 Open to new opportunities and collaborations.  
-- 📫 Feel free to contact me via email: [richard46427@gmail.com](mailto:richr@gmail.com)  
+- 🎓 Titulado en Tecnología en Desarrollo de Software por un instituto técnico.  
+- 💻 Desarrollador independiente, apasionado por crear soluciones prácticas y eficientes. 
+- 📚 Aprendiz autodidacta, en constante exploración de nuevas tecnologías y buenas prácticas.  
+- 🚀 Interesado en desarrollo web, backend y herramientas modernas.  
+- 🤝 Abierto a nuevas oportunidades y colaboraciones.  
+- 📫 No dudes en contactarme por correo electrónico: richard46427@gmail.com
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
